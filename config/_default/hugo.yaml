@@ -4,3 +4,4 @@
   theme: Eclectic
   enableEmoji: true
   enableGitInfo: true
+  summaryLength: 70

@@ -4,5 +4,5 @@
   theme: Eclectic
   enableEmoji: true
   minify: false
-  params:
-    DebugMenu: true
+  #params:
+  #  DebugMenu: true
