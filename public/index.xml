@@ -1,150 +1,40 @@
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Acme Corporation</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 09 Sep 2025 16:44:44 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<title>About Us</title>
-<link>http://localhost:1313/about/</link>
-<pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-<description>World&#39;s leading manufacturer of digital shapes. We shape the world. You live in it.</description>
-<category></category></item>
-    
+      <title></title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;h1 id=&#34;the-acme-blog&#34;&gt;The Acme Blog&lt;/h1&gt;&#xA;&lt;p&gt;Curated content about our teams and products.&lt;/p&gt;</description>
+    </item>
     <item>
-<title>Our Manufacturing Process Part IV</title>
-<link>http://localhost:1313/blog/process-4/</link>
-<pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/process-4/</guid>
-<description></description>
-<category></category></item>
-    
+      <title></title>
+      <link>http://localhost:1313/blog/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/community/</guid>
+      <description></description>
+    </item>
     <item>
-<title>Our Manufacturing Process Part III</title>
-<link>http://localhost:1313/blog/process-3/</link>
-<pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/process-3/</guid>
-<description></description>
-<category></category></item>
-    
+      <title></title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description></description>
+    </item>
     <item>
-<title>Our Manufacturing Process Part II</title>
-<link>http://localhost:1313/blog/process-2/</link>
-<pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/process-2/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title>Our Manufacturing Process Part I</title>
-<link>http://localhost:1313/blog/process-1/</link>
-<pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/process-1/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/blog/building-squares/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/building-squares/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/blog/community/circle/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/community/circle/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/blog/community/curve/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/community/curve/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/blog/tropical-triangles/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/tropical-triangles/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/contact/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/credits/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/credits/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/news/shaper/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/news/shaper/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/news/square-license/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/news/square-license/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/privacy/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/privacy/</guid>
-<description></description>
-<category></category></item>
-    
-    <item>
-<title></title>
-<link>http://localhost:1313/terms/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/terms/</guid>
-<description></description>
-<category></category></item>
-    
+      <title>Categories</title>
+      <link>http://localhost:1313/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/</guid>
+      <description>&lt;p&gt;At Acme corporation, we produce shapes and love to talk about them.&#xA;Here are the various categories of content we have at Acme.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
